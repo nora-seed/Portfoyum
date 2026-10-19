@@ -1,25 +1,33 @@
 {
-  "updated_at": "2026-10-17 22:15 UTC",
+  "updated_at": "2026-10-19T13:50:41+03:00",
+  "timezone": "Europe/Istanbul",
   "funds": {
     "GCN": {
-      "price": 0.063849,
-      "date": "2026-10-16"
+      "price": 0.063122,
+      "date": "2026-10-19"
     },
     "GHA": {
-      "price": 0.753839,
-      "date": "2026-10-16"
+      "price": 0.760064,
+      "date": "2026-10-19"
     },
     "GCT": {
-      "price": 0.078266,
-      "date": "2026-10-16"
+      "price": 0.078454,
+      "date": "2026-10-19"
     },
     "YIT": {
-      "price": 2.563422,
-      "date": "2026-10-16"
+      "price": 2.554877,
+      "date": "2026-10-19"
     },
     "KTJ": {
-      "price": 2.69125,
-      "date": "2026-10-16"
+      "price": 2.698068,
+      "date": "2026-10-19"
+    }
+  },
+  "certificates": {
+    "ALTIN.S1": {
+      "price": 71.4,
+      "date": "2026-10-19",
+      "source": "Midas (ALTINS1, BIST kaynaklı ~15dk gecikmeli)"
     }
   }
 }
