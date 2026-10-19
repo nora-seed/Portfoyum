@@ -26,4 +26,4 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add fon-fiyatlari.json
-          git diff --cached --quiet || (git commit -m 'Update TEFAS fund prices' && git push)
+          git diff --cached --quiet || (git commit -m 'Update TEFAS fund prices' && git pull --rebase --autostash && git push)
